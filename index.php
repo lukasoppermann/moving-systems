@@ -31,13 +31,13 @@
 	<div class="menu">
 		<ul>
 			<li class="logo-small"><a href="#top"><img src="./layout/moving-systems-logo-small.png" /></a></li>
-			<li><a href="#moving-systems">Was ist <span class="highlight">moving systems</span></a></li>
-			<li><a href="#about">Über uns</a></li>
-			<li><a href="#angebote">Angebote</a></li>
-			<li><a href="#empfehlungen">Empfehlungen</a></li>
-			<li><a href="#downloads">Downloads</a></li>
-			<li><a href="/blog/">Blog</a></li>
-			<li><a href="#kontakt">Kontakt</a></li>
+			<li class="menu-link"><a href="#moving-systems">Was ist <span class="highlight">moving systems</span></a></li>
+			<li class="menu-link"><a href="#about">Über uns</a></li>
+			<li class="menu-link"><a href="#angebote">Angebote</a></li>
+			<li class="menu-link"><a href="#empfehlungen">Empfehlungen</a></li>
+			<li class="menu-link"><a href="#downloads">Downloads</a></li>
+			<li class="menu-link"><a href="/blog/">Blog</a></li>
+			<li class="menu-link"><a href="#kontakt">Kontakt</a></li>
 		</ul>
 	</div>
 	<div class="container">
@@ -50,10 +50,13 @@
 				// link fn
 				function change_link($string, $urls)
 				{
-					foreach($urls as $url)
+					if( isset($urls) && is_array($urls) )
 					{
-						$string = str_replace($url['url'], "<a rel=\"nofollow\" target=\"_blank\" href='".$url['expanded_url']."'>".$url['expanded_url']."</a>", $string);
-				  	}
+						foreach($urls as $url)
+						{
+							$string = str_replace($url['url'], "<a rel=\"nofollow\" target=\"_blank\" href='".$url['expanded_url']."'>".$url['expanded_url']."</a>", $string);
+					  	}
+					}
 					$string = preg_replace('!http://([a-zA-Z0-9./-]+[a-zA-Z0-9/-])!i', '<a href="\\0" target="_blank">\\0</a>', $string);
 					return $string;
 				}
