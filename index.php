@@ -216,23 +216,38 @@
 					<p>Das unbekannte Dritte: die Verbindung von Person und System.</p>
 				</div>
 			</section>
-			<section>
+			<section class="margin-bottom">
 				<h2 class="main-headline"><a name="about">Über uns</a></h2>
 				<p class="excerpt">Wir stehen für eine synergetische Arbeit vor dem  Hintergrund der Systemtheorie und der prozessorientierten und praxisorientierten Körperanalyse.</p>
-				<div class="column">
-					<h3>Marion Schenk</h3>
-					<p>Diplom Psych., Diplom Kffr.</p>
-					<p>Ausbildung in systemischer- und prozessorientierter Organisationsberatung</p>
-					<p>Seit 1999 Mitinhaberin der Beratungssozietät Oppermann Schenk</p>
-					<p>seit 2001 Geschäftsführerin und Trainerin im Institut Systemische Beratung Berlin ISBB</p>
-				</div><div class="column">
-					<h3>Alexander Veit</h3>
-					<p>freier Regisseur und Dozent für nonverbale Kommunikation</p>
-					<p>Ausbildung zum Pantomimen in London im Mime Centre London (Adam Darius), Studium Kunst an der Akademie der Bildenden Künste, München</p>
-					<p>Pantomime Soloprogramme</p>
-					<p>Seminare zu Theater und nonverbaler Kommunikation seit 1990</p>
-					<p>Oper- und Theaterinszenierungen in Freising/München 2000 bis 2011</p>
-					</p>
+				<div class="about-box schenk">
+					<div class="column image">
+						<img src="./images/marion_schenk_banner.jpg">
+					</div>
+					<div class="column">
+						<div class="text-wrapper">
+							<h3>Marion Schenk</h3>
+							<p>Diplom Psych., Diplom Kffr.</p>
+							<p>Ausbildung in systemischer- und prozessorientierter Organisationsberatung</p>
+							<p>Seit 1999 Mitinhaberin der Beratungssozietät Oppermann Schenk</p>
+							<p>seit 2001 Geschäftsführerin und Trainerin im Institut Systemische Beratung Berlin ISBB</p>
+						</div>
+					</div>
+				</div>
+				<div class="about-box veit">
+					<div class="column">
+						<div class="text-wrapper">
+							<h3>Alexander Veit</h3>
+							<p>freier Regisseur und Dozent für nonverbale Kommunikation</p>
+							<p>Ausbildung zum Pantomimen in London im Mime Centre London (Adam Darius), Studium Kunst an der Akademie der Bildenden Künste, München</p>
+							<p>Pantomime Soloprogramme</p>
+							<p>Seminare zu Theater und nonverbaler Kommunikation seit 1990</p>
+							<p>Oper- und Theaterinszenierungen in Freising/München 2000 bis 2011</p>
+							</p>
+						</div>
+					</div>
+					<div class="column image">
+						<img src="./images/alexander_veit_banner.jpg">
+					</div>
 				</div>
 			</section>
 			<section>		
