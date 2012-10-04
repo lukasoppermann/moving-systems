@@ -289,6 +289,19 @@
 			</section>
 			<section>
 				<h2 class="main-headline"><a name="empfehlungen">Empfehlungen</a></h2>
+					<p class="excerpt">Was uns und andere noch bewegt. Links zu Seiten von Kollegen, Organisationen und Artikeln rund um Beratung, Körper und System.</p>
+					<div class="recommandation">
+						<p>BOSB Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<a class="link" href="http://www.bosb.org/">BOSB</a>
+					</div>
+					<div class="recommandation">
+						<p>ISBB Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<a class="link" href="http://www.isbb.org/">ISBB</a>
+					</div>
+					<div class="recommandation">
+						<p>Alexander Veit Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<a class="link" href="http://www.alexander-veit.de/">Alexander Veit</a>
+					</div>
 			</section>
 			<section>
 				<h2 class="main-headline"><a name="downloads">Downloads</a></h2>

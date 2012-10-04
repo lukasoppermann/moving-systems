@@ -427,6 +427,29 @@ section.margin-bottom{
 	font-size: 120%;	
 	margin: 10px 2.5% 0px;
 }
+/* Recommandations */
+.recommandation{
+	width: 28%;
+	margin: 2% 2.5%;
+	float: left;
+	background: transparent;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;	
+	padding: 10px;
+	transition: background .7s ease;   
+	-webkit-transition: background .7s ease;
+	-moz-transition: background .7s ease;
+	-o-transition: background .7s ease;
+	-ms-transition: background .7s ease;
+}
+.recommandation:hover{
+	background: rgb(240,240,240);
+}
+.recommandation .link{
+	padding: 10px;
+	margin-left: -10px;
+}
 /* Media Queries */
 @media screen and (max-width: 1200px) { 
 	.container{
@@ -445,9 +468,10 @@ section.margin-bottom{
 	.container{
 		width: 100%;
 	}
-	.column{
+	.column, .recommandation{
 		width: 95%;
-		margin: 0 2.5%;
+		margin-left: 2.5%;
+		margin-right: 2.5%;		
 		float: left;
 	}
 	section{
