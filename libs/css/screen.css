@@ -408,13 +408,13 @@ section h3{
 	right: -2px;
 	top: 0;
 	height: 100%;
-	width: 50px;
+	width: 30px;
 	background-color: transparent;
 	background-image: -moz-linear-gradient(right, rgba(255,255,255,1), rgba(255,255,255,0));
 	background-image: -webkit-linear-gradient(right, rgba(255,255,255,1), rgba(255,255,255,0));
 }
 .about-box.veit:after{
-		width: 100px;
+		width: 60px;
 }
 section.margin-bottom{
 	margin-bottom: 30px;
