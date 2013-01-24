@@ -36,7 +36,7 @@
 			<li class="menu-link"><a href="#angebote">Angebote</a></li>
 			<li class="menu-link"><a href="#empfehlungen">Empfehlungen</a></li>
 			<li class="menu-link"><a href="#downloads">Downloads</a></li>
-			<li class="menu-link"><a href="/blog/">Blog</a></li>
+			<!-- <li class="menu-link"><a href="/blog/">Blog</a></li> -->
 			<li class="menu-link"><a href="#kontakt">Kontakt</a></li>
 		</ul>
 	</div>
@@ -252,62 +252,92 @@
 			</section>
 			<section>		
 				<h2 class="main-headline"><a name="angebote">Angebote</a></h2>
+				<h3>Köpfe, Körper & Systeme</h3>
+				<div class="column">
+					<p>Sie schicken ihre leitenden Mitarbeiter zur Führungskräfteentwicklung. Sie verändern in Beratungsprozessen Ihre Strukturen.</p>
+					<p>Wirksame Veränderung braucht die Verbindung von Person und System.</p>
+					<p>Sie braucht diese Verbindung. Sie braucht kluge Köpfe, körperliche Präsenz und
+Systemstruktur. Unsere Herangehensweise ist es, Systeme körperlich und Körper
+systemisch zu begreiffen.</p>
+				</div><div class="column">
+					<p>Deshalb arbeiten wir mit Ihnen im Rahmen von Veränderungsprozessen, bei der Arbeit mit Führungskräften, Teams oder in Workshops, sowohl in den Bereichen System, Struktur, Macht und Status, als auch in den Themenfeldern Körper, nonverbale Kommunikation und Präsenz.</p>
+				</div>
+			</section>
+			<section>
 				<h3>Führung</h3>
 				<div class="column">
 					<p>Neben Führungstechniken, Motivation, Analyse der eigenen Wirkung und der systemischen Einbettung von Führungshandeln in der Organisation stehen Fragen von Status, Macht, Körper und körperliche Präsenz im Mittelpunkt.</p>
-					<p>Die Verbindung von Persona und Wirkung, mit Handeln und Entscheiden im Führungskontext.</p>
+					<p>Zentral ist die Verbindung von Persönlichkeit und Wirkung, mit Handeln und Entscheiden im Führungskontext.</p>
 				</div><div class="column">
-					<p>Sagen Sie uns, wie Sie Führung und Macht als Phänomen der Organisation und die Entstehung in systemischer Sicht begreifen. Ist Macht durch Gesten eine Macht der Körperlichkeit?</p>
+					<p>Sagen Sie uns, wie Sie Führung und Macht bei Ihnen gelebt wird. Ist beispielsweise Macht durch Gesten eine Macht der Körperlichkeit? Wie erarbeiten mit Ihnen in welcher Form Führung sinnvoll auftritt.</p>
 				</div>
 			</section>
 			<section>
 				<h3>Wirkung, Status und Auftritt</h3>
 				<div class="column">
-					<p>Um über reines Präsenztraining hinauszugehen, arbeiten wir an und mit den Begriffen des Status, sowohl verbal, nonverbal als auch systemgebunden.
-				Es werden Fragen von Status und der im inliegenden gewünschten Bedeutung im System beobachtet. Ebenso stellen wir die Frage von  Status und Körper als Ordnungsprinzip.</p>
+					<p>Um über reines Präsenztraining hinauszugehen, arbeiten wir mit dem Modell des Statusphänomens, verbal, nonverbal und auch systemgebunden. So stellen und beantworten wir die Frage von Status und Körper als Ordnungsprinzip.</p>
 				</div><div class="column">
-					<p>Wie kann die eigene Wirkung optimiert werden? Dabei berücksichtigen wir immer den Kontext und die Umgebung in der diese stattfinden soll.</p>
-					<p>Sagen Sie uns, in welchem System Sie arbeiten. Sagen Sie uns wie Sie Wirkung erzielen wollen. Ermitteln Sie: welches Charisma passt zu Ihrer Führungskraft.</p>
-				</div>
-			</section>
-			<section>
-				<h3>Veränderungsprozesse und Kultur</h3>
-				<div class="column">
-					<p>Wenn Systeme und Organisationen sich verändern und entwickeln kommen auch die Menschen in Bewegung. Bewegung wird körperlich als auch kulturell und atmosphärisch sichtbar.</p>
-				</div><div class="column">
-					<p>Welche Form von Bewegung unterstützt Prozesse? Wie wirken Statik und Bewegung in Organisationen. Woran macht sich Kultur und Kulturveränderung fest?</p>
-					<p>Sagen Sie uns, welchen Stellenwert Körperlichkeit in Ihrem System einnimmt. Sagen Sie uns, wie Sie Ihre Produkte begehrenswert und attraktiv machen.</p>
+					<p>Wie kann die eigene Wirkung wahrgenommen und gegebenenfalls verändert werden?</p>
+					<p>Dabei berücksichtigen wir immer Sinn, Situation und Umgebung.</p>
 				</div>
 			</section>
 			<section>
 				<h3>Diversitiy</h3>
 				<div class="column">
-					<p>Welchen Unterschied machen Unterschiede?  Wie können systemisches Wissen und das Wissen um die Unterschiede in körperlicher Präsenz, Gestik, Mimik und Sprache genutzt werden um Diversität zu fördern? Wir wollen Stärken stärken und Unterschiede positiv nutzen. Dabei geht es sowohl um den Auftritt von Frauen in Machtumgebungen als auch kulturelle Unterschiede in Präsenz, Sprache und Gestik.</p>
+					<p>Welchen Unterschied machen die Unterschiede? Wie können das Wissen um die Unterschiede in körperlicher Präsenz, Gestik, Mimik und Sprache genutzt werden um Diversität zu kultivieren?</p>
 				</div><div class="column">
-					<p>Sagen Sie uns welche Gruppen in ihrer Organisation unterrepräsentiert sind. Welcher Personenkreis soll gefördert werden, mit welchem Nutzen für Mensch und Organisation?</p>
+					<p>Themenfelder dafür sind Frauen in Machtumgebungen, interkulturelle Unterschiede in Präsenz, Sprache und Gestik, Probleme zwischen Generationen aber auch interne Konflikte zwischen Abteilungen und deren Arbeitskultur.</p>
+				</div>
+			</section>
+			<section>
+				<h3>Formate</h3>
+				<div class="column">
+					<p>Was passt zu Ihrem Anliegen, zu den handelnden Personen und ist dies der Situation und Organisation angemessen?</p>
+				</div><div class="column">
+					<ul class="list no-points">
+						<li><strong>Vorträge:</strong> 45 bis 90 Minuten Vorträge, Impulsreferate</li>
+						<li><strong>Workshops:</strong> für Abteilungen und/oder Teams zu ausgewählten Themen oder für ausgewählte Personengruppen</li>
+						<li><strong>Coaching:</strong> Beratung von Einzelpersonen, inklusive Videotraining und Begleitung in live-Situationen</li>
+					</ul>
 				</div>
 			</section>
 			<section>
 				<h2 class="main-headline"><a name="empfehlungen">Empfehlungen</a></h2>
 					<p class="excerpt">Was uns und andere noch bewegt. Links zu Seiten von Kollegen, Organisationen und Artikeln rund um Beratung, Körper und System.</p>
 					<div class="recommandation">
-						<p>BOSB Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-						<a class="link" href="http://www.bosb.org/">BOSB</a>
-					</div>
-					<div class="recommandation">
-						<p>ISBB Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>ISBB – Institut für systemische Weiterbildung in Berlin mit Schwerpunkt Organisationsberatung</p>
 						<a class="link" href="http://www.isbb.org/">ISBB</a>
 					</div>
 					<div class="recommandation">
-						<p>Alexander Veit Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>BOS – Beratungsfirma von Marion Schenk mit Angeboten zur systemischen Organisationsberatung und Personalentwicklung</p>
+						<a class="link" href="http://www.bosb.de/">BOS</a>
+					</div>
+					<div class="recommandation">
+						<p>Persönliche Webseite von Alexander Veit zum Thema nonverbale Kommunikation / Inszenierung</p>
 						<a class="link" href="http://www.alexander-veit.de/">Alexander Veit</a>
 					</div>
 			</section>
 			<section>
 				<h2 class="main-headline"><a name="downloads">Downloads</a></h2>
+				<div class="recommandation">
+					<p>Angebote im Überblick.</p>
+					<a class="link" href="http://movingsystems.org/files/Moving-Systems-Expose.pdf">Exposé</a>
+				</div>
 			</section>
 			<section>
 				<h2 class="main-headline"><a name="kontakt">Kontakt</a></h2>
+				<div class="column third">
+					<p>
+					<span class="contact-type">E</span><a class="email" href="mailto:marionschenk@movingsystems.org">marionschenk@movingsystems.org</a><br />
+					<span class="contact-type">M</span><a class="email" href="tel:+491773275280">0177 3275280</a><br />
+					<span class="contact-type"></span><a class="link" href="http://www.bosb.de/htdocs_de/kontakt.php?id=kontakt">Kontakt</a></p>
+				</div>
+				<div class="column third">
+					<p>
+					<span class="contact-type">E</span><a class="email" href="mailto:alexanderveit@movingsystems.org">alexanderveit@movingsystems.org</a><br />
+					<span class="contact-type">M</span><a class="email" href="tel:+491773497612">0177 3497612</a><br />
+					<span class="contact-type"></span><a class="link" href="http://www.alexander-veit.de/contact/">Kontakt</a></p>
+				</div>
 			</section>
 		</div>
 	</div>
