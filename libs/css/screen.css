@@ -504,6 +504,10 @@ section.margin-bottom{
 	}
 }
 @media screen and (max-width: 1023px) { 
+	.loaded .logo{
+		opacity: 1;
+		left: -5px;
+	}
 	.news{
 		display: none;
 	}
