@@ -7,8 +7,9 @@
 	<meta name="description" content="description" />
 	<meta name="robots" content="index,follow" />
 	<meta name="language" content="de" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<link rel="stylesheet" type="text/css" href="./libs/css/screen.css" media="screen" />
-<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600italic' rel='stylesheet' type='text/css'>
 	<title>Moving Systems</title>
 </head>
 <body>
@@ -19,7 +20,7 @@
 			</div>
 			<div class="slider">
 				<div class="slide" id="quote_one">
-					<img src="./images/banner_two.png">
+					<!-- <img src="./images/banner_two.jpg"> -->
 					<div class="slide-quote">
 						<blockquote>„Ein Körper ist ein Aufflammen.“</blockquote>
 						<div class="author">~ J.-L.Nancy</div>
@@ -282,7 +283,7 @@ systemisch zu begreiffen.</p>
 				</div>
 			</section>
 			<section>
-				<h3>Diversitiy</h3>
+				<h3>Diversität</h3>
 				<div class="column">
 					<p>Welchen Unterschied machen die Unterschiede? Wie können das Wissen um die Unterschiede in körperlicher Präsenz, Gestik, Mimik und Sprache genutzt werden um Diversität zu kultivieren?</p>
 				</div><div class="column">

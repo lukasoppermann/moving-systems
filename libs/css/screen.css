@@ -94,9 +94,6 @@ a:hover{ color: rgb(255,185,30); text-decoration: none;}
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;	
 }
-.menu ul li a:hover{
-	
-}
 /* Header */
 .header{
 	position: absolute;
@@ -109,7 +106,7 @@ a:hover{ color: rgb(255,185,30); text-decoration: none;}
 	background-color: rgb(255,205,0);
 	background-image: -moz-linear-gradient(top, rgb(255,205,0), rgb(255,185,30));
 	background-image: -webkit-linear-gradient(top, rgb(255,205,0), rgb(255,185,30));
-	background: rgb(255,255,255);	
+	background: url('../../images/banner_two.jpg') top center;
 	-webkit-box-shadow: inset 0px -2px 2px 0px rgba(0,0,0,0.05);
 	-moz-box-shadow: inset 0px -2px 2px 0px rgba(0,0,0,0.05);
 	box-shadow: inset 0px -2px 2px 0px rgba(0,0,0,0.05);
@@ -181,7 +178,7 @@ a:hover{ color: rgb(255,185,30); text-decoration: none;}
 	z-index: 2;
 	margin: 0 0 0 -30px;
 	opacity: 0;
-	width: 550px;
+	width: 100%;
 }
 .loaded .slide blockquote{
 	margin-left: 0px;
@@ -370,7 +367,7 @@ section h3{
 	float: left;
 }
 .column.third{
-	width: 29%;
+	width: 32%;
 	margin: 2% 2%;
 	float: left;
 }
@@ -476,9 +473,34 @@ section.margin-bottom{
 .list li{	float: left; margin: 10px 0; }
 .list li:first-child{ margin-top: 0; }
 /* Media Queries */
+@media screen and (max-width: 1300px) { 
+	.column.third{
+		width: 40%;
+		margin: 2% 2%;
+		float: left;
+	}
+}
 @media screen and (max-width: 1200px) { 
 	.container{
 		width: 98%;
+	}
+	.slide{
+		padding-right: 30px;
+		font-size: 450%;
+	}
+	.slide .slide-quote{
+		float: right;
+		width: 450px;
+	}
+}
+@media screen and (max-width: 1100px) { 
+	.slide{
+		padding-right: 30px;
+		font-size: 350%;
+	}
+	.slide .slide-quote{
+		float: right;
+		width: 350px;
 	}
 }
 @media screen and (max-width: 1023px) { 
@@ -488,11 +510,69 @@ section.margin-bottom{
 	.content{
 		padding-right: 0;
 	}
+	.slide{
+		padding-right: 30px;
+		font-size: 250%;
+	}
+	.slide .slide-quote{
+		float: right;
+		width: 250px;
+	}
+}
+@media screen and (max-width: 900px){
+	.menu ul li a{
+		padding: 17px 5px;
+	}
+	.menu ul{
+		font-size: 105%;
+	}
+}
+@media screen and (max-width: 800px){
+	.column.third{
+		width: 46%;
+		margin: 2% 2%;
+		float: left;
+	}
+	.slide .slide-quote{
+		float: right;
+		display: none;
+	}
+	.menu ul li a{
+		padding: 17px 3px;
+	}
+	.menu ul{
+		font-size: 100%;
+	}
+}
+@media screen and (max-width: 700px){
+	.column.third{
+		width: 96%;
+		margin: 2% 2%;
+		float: left;
+	}
+	.menu{ display: none; }	
 }
 @media screen and (max-width: 600px){
-	.container{
-		width: 100%;
+	.logo{
+		position: absolute;
+		top: 20px;
+		left: 0px;
+		opacity: 0;
+		z-index: 2;
+		display: inline-block;
+		text-align: left;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
 	}
+	.loaded .logo{
+		opacity: 1;
+		left: -5px;
+	}
+	.header{
+		background: url('../../images/banner_two-mobile.jpg') top center;
+	}
+	.container{ width: 100%; }
 	.column, .recommandation{
 		width: 95%;
 		margin-left: 2.5%;
